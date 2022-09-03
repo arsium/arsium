@@ -22,6 +22,10 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arsium&show_icons=true&theme=radical)
 
 
-<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=arsium&theme=dark&background=000000)](https://git.io/streak-stats) -->
+<!-- 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=arsium&theme=dark&background=000000)](https://git.io/streak-stats) 
+https://www.sitepoint.com/github-profile-readme/
+https://github.com/anuraghazra/github-readme-stats#top-languages-card
+-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arsium&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
