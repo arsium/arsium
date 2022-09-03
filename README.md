@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ### :fire: My Stats :
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arsium)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arsium&show_icons=true&theme=radical)
 
 
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=arsium&theme=dark&background=000000)](https://git.io/streak-stats) -->
