@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 ---
 
 <p align="center">
-  <img align="center" width="100%"  height="400px" alt="GIF" src="https://media.giphy.com/media/OTg4nrmU8vkty/giphy.gif%22/%3E
+  <img align="center" width="100%"  height="400px" alt="GIF" src="https://media.giphy.com/media/OTg4nrmU8vkty/giphy.gif%22/%3E"
 </p>
 
                                                                   
