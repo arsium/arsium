@@ -25,22 +25,17 @@ Here are some ideas to get you started:
 -->
 
 ---
-
-<p align="center">
-  <img align="center" width="50%"  height="400px" alt="GIF" src="https://media.giphy.com/media/OTg4nrmU8vkty/giphy.gif"
-</p>
-
-                                                                  
+                                                                
 ### :fire: My Stats :
 
-<p align="center">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arsium&show_icons=true&theme=radical)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arsium&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arsium&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-</p>
-    
+
+<br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arsium&layout=compact&theme=radical)
 
 
+  
 <!-- 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=arsium&theme=dark&background=000000)](https://git.io/streak-stats) 
 https://www.sitepoint.com/github-profile-readme/
