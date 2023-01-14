@@ -9,6 +9,11 @@ Greatly interested in
 * Reverse
 * Malwares
 
+Currently working on :
+
+* PE Loader
+* Windows Internals & undocumented
+
 <!--
 **arsium/arsium** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
