@@ -11,8 +11,9 @@ Greatly interested in
 
 Currently working on :
 
-* PE Loader
+* PE modifications
 * Windows Internals & undocumented
+* Private RAT
 
 <!--
 **arsium/arsium** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
